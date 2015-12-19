@@ -25,3 +25,10 @@ proguard/
 
 # Log Files
 *.log
+
+.DS_Store
+
+#Ignore Intellij files
+.idea/workspace.xml
+.idea/libraries
+
